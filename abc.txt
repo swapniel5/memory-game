@@ -1,0 +1,2 @@
+this is demo for github 
+i am adding text file to github by ubuntu terminal
